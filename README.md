@@ -1,4 +1,4 @@
-# 🏗️ Pórtico 2D/3D & Generador de Reportes Typst
+# 🏗️ Analisis Modal Espectral: Porticos 2D & 3D
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Typst](https://img.shields.io/badge/Typst-Ready-orange)
